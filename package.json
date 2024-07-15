@@ -1,0 +1,19 @@
+{
+  "name": "budget-api",
+  "version": "1.0.0",
+  "description": "A Financial monitoring application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oregev/budget-api.git"
+  },
+  "author": "or_regev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oregev/budget-api/issues"
+  },
+  "homepage": "https://github.com/oregev/budget-api#readme"
+}
